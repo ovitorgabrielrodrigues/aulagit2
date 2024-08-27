@@ -1,0 +1,33 @@
+/*Seletor de elentos*/
+body{
+    background-color: #006875;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*Seletor de classes*/
+.centraliza{
+    text-align: center;
+}
+.line{
+    display: inline;
+}
+li{
+    padding: 1%;
+}
+nav{
+    border: solid;
+    text-align: center;
+    background-color: #939293;
+    padding: 1%;
+}
+#pessoais{
+    border-style: dotted;
+}
+#Formacao{
+    border-style: dotted;
+}
+#Experiencia{
+    border-style: double;
+}
+#Softskills{
+    border-style: groove;
+}
